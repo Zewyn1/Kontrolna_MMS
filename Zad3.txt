@@ -1,0 +1,14 @@
+ps
+ps aux
+top
+htop
+mkdir MMS\ C\ camp
+cp *.c /MMS\ C\ Camp
+rm *[1234567890]*.*
+chmod /Desktop/testFile u=wrx
+chmod /Desktop/testFile u=rx
+chmod /Desktop/testfile 444
+cat source1.c
+cat source2.c
+cat source1.c > lineCount
+cat source2.c >> lineCount
